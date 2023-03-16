@@ -1,0 +1,5 @@
+z3-solver
+pytest
+pytest-cov
+black
+docopt

@@ -1,0 +1,17 @@
+{
+    "outputOperators": [
+        "add",
+        "sub",
+        "or",
+        "and",
+        "xor"
+    ],
+    "targetOperators": [
+        "add",
+        "sub",
+        "or",
+        "and",
+        "xor"
+    ],
+    "atLeastOnce": []
+}
