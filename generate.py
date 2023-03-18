@@ -1,12 +1,12 @@
 #!/usr/bin/python3
 """Overview:
-    Generates a code fragment that satisfy the specified conditions.
+    Generates a code fragment that can replace the input opcode.
 
 Usage:
     generate <opname> [-l <L>] [-a] [-f]
 
 Options:
-    opname  : Name of target instruction (add, sub, or, and, xor)
+    opname  : Opcode name of target instruction (add, sub, or, and, xor)
     -l <L>  : Length of instruction sequence to be generated [default: 10]
     -f      : Output formulas
     -a      : (Experimental) Generate all possible instruction sequences
